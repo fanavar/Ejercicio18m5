@@ -55,6 +55,8 @@ class MainActivity : AppCompatActivity() {
         binding.valorDecimal.text = ""
         binding.txSwicht.text = ""
 
+
+
         binding.ingresarTexto.text.clear()
         binding.ingresarDecimal.text.clear()
         binding.ingresarNumero.text.clear()
